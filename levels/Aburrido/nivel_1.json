@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "nombre": "Restas simples",
+  "dificultad": "Aburrido",
+  "descripcion": "Resuelve: x - 4 = 9",
+  "ecuacion": "x - 4 = 9",
+  "respuesta_correcta": 13,
+  "tips": [
+    "Suma 4 a ambos lados",
+    "x - 4 + 4 = 9 + 4",
+    "x = 13"
+  ]
+}
+

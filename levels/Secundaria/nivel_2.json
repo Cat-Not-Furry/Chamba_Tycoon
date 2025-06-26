@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "nombre": "Sumas simples",
+  "dificultad": "Basico",
+  "descripcion": "Resuelve: x + 3 = 9",
+  "ecuacion": "x + 3 = 9",
+  "respuesta_correcta": 6,
+  "tips": [
+    "Resta 3 a ambos lados",
+    "x + 3 - 3 = 9 - 3",
+    "x = 6"
+  ]
+}
+

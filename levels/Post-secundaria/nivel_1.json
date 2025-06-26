@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "nombre": "Sumas simples",
+  "dificultad": "Basico",
+  "descripcion": "Resuelve: x + 4 = 9",
+  "ecuacion": "x + 4 = 9",
+  "respuesta_correcta": 5,
+  "tips": [
+    "Resta 4 a ambos lados",
+    "x + 4 - 4 = 9 - 4",
+    "x = 5"
+  ]
+}
+
